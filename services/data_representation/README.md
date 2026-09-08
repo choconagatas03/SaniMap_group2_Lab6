@@ -1,8 +1,7 @@
 ## Data Representation
 
-The **Comfort Room (Restroom)** resource represents a single restroom facility within Rizal Park (Luneta), including its location, operating hours, accessibility, amenities, and current status. This is the core enterprise resource exchanged between the Comfort Room Registry Service and its consumers (including the reporting service and coverage/monitoring modules).
+The **Comfort Room (Restroom)** resource represents a single restroom facility within Rizal Park (Luneta), including its location, operating hours, accessibility, amenities, and current status. This is the core enterprise resource exchanged between the Comfort Room Registry Service and its consumers (the frontend, the Appointment/ Reporting service equivalent, and the Coverage & Monitoring service).
 
-The system supports both **JSON** and **XML** data formats. Clients specify output preference using standard HTTP Content Negotiation (`Accept: application/json` or `Accept: application/xml`) and indicate request body payload formats using the `Content-Type` header.
 
 ### Resource Schema
 
