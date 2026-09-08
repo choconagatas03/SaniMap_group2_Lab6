@@ -37,6 +37,7 @@ The **Comfort Room (Restroom)** resource represents a single restroom facility w
 <img width="744" height="296" alt="image" src="https://github.com/user-attachments/assets/0ee1de95-440b-4b88-97ef-14b2a78c5c1f" />
 ### Equivalent XML Representation
 <img width="754" height="429" alt="image" src="https://github.com/user-attachments/assets/0e923c07-8a2e-46f7-a5ca-0102506807ff" />
+
 ### Part 7: Content Negotiation
 ### GET /restrooms/{id} supports both JSON and XML responses for the same underlying resource, selected via the standard HTTP Accept header.
 
