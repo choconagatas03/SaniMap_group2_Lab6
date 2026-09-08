@@ -17,7 +17,7 @@ The **Comfort Room (Restroom)** resource represents a single restroom facility w
 | "amenities" | array of strings | Available facilities, e.g., handwashing station, soap |
 | "status" | string | "open", "closed", or "under_maintenance"  |
 
-### Example Payloads
+
 
 #### JSON Format
 {
@@ -28,10 +28,10 @@ The **Comfort Room (Restroom)** resource represents a single restroom facility w
   "operatingHours": "06:00-20:00",
   "pwdAccessible": true,
   "genderType": "Unisex",
-  "amenities": [
-    "handwashing station",
+  "amenities": 
+  "handwashing station",
     "soap"
-  ],
+  ,
   "status": "open"
 }
 <img width="744" height="296" alt="image" src="https://github.com/user-attachments/assets/0ee1de95-440b-4b88-97ef-14b2a78c5c1f" />
