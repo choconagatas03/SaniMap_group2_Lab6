@@ -1,4 +1,4 @@
-## Error Handling
+## Part 10 – Validation and Error Handling
 
 The service validates all incoming requests and returns structured, content-negotiated error bodies (JSON or XML, matching the `Accept` header) rather than crashing or returning unstructured stack traces.
 
