@@ -19,12 +19,16 @@ The service validates all incoming requests and returns structured, content-nego
 ### Request
 <img width="679" height="321" alt="image" src="https://github.com/user-attachments/assets/5905026e-7ac6-4470-984f-cc49229b1071" />
 <img width="671" height="373" alt="image" src="https://github.com/user-attachments/assets/d18fc074-0181-4fc9-be6b-d2a82792287d" />
+
 ### Example — Unsupported Media Type
 ### Request
+
 <img width="684" height="370" alt="image" src="https://github.com/user-attachments/assets/d8555e84-71c3-44dd-a25c-83f9b0dbe240" />
 <img width="510" height="333" alt="image" src="https://github.com/user-attachments/assets/399b7bd4-9328-4c2b-95d3-8d96e935501b" />
+
 ### Example — Resource Not Found
 ### Request
+
 <img width="446" height="498" alt="image" src="https://github.com/user-attachments/assets/1e1ccdba-95e2-4001-95a5-f75cc7b35db5" />
 <img width="473" height="507" alt="image" src="https://github.com/user-attachments/assets/a04f20fc-6c51-4856-9502-b6baf35cbd67" />
 
